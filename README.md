@@ -1,7 +1,7 @@
 ### Hello Guys 👋
 
 #### My Name is Stewen and i'm a Software developer! :heart_eyes: :heart_eyes:
-#### From :brazil:
+#### From: :brazil:
 
 
 #### I'm :heart::     :computer: :tea: :headphones: :video_game: :pizza: :cat2:
