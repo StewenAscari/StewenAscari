@@ -5,12 +5,7 @@
 
 
 #### I'm :heart::
-#### :computer:
-#### :tea:
-#### :headphones:
-#### :video_game:
-#### :pizza:
-#### :cat2:
+#### :computer: :tea: :headphones: :video_game: :pizza: :cat2:
 <!--
 **StewenAscari/StewenAscari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
