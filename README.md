@@ -1,5 +1,3 @@
-### Hello Guys 👋
-
 ####  :man_technologist: Software developer! :heart_eyes: :heart_eyes: :heart:
 
 - :computer: Java, Node.js, Javascript, TypeScript, Angular.js ...
