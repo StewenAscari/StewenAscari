@@ -1,8 +1,12 @@
 ### Hello Guys 👋
 
-#### My Name is Stewen and i'm a Software developer! :heart_eyes: :heart_eyes:
-#### From: :brazil:
+####  :man_technologist: Software developer! :heart_eyes: :heart_eyes: :heart:
 
+- :computer: Java, Node.js, Javascript, TypeScript, Angular.js ...
+
+:blush: :point_right: :heart: :
+   - Coffee :coffee:
+   - Cats :cat2:
 
 
 <!--
