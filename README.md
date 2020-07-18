@@ -7,6 +7,8 @@
 :blush: :point_right: :heart: :
    - Coffee :coffee:
    - Cats :cat2:
+   - Music :headphones:
+   - Games :video_game:
 
 
 <!--
