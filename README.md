@@ -1,33 +1,25 @@
-####  :man_technologist: Software developer! :heart_eyes: :heart_eyes: :heart:
+# Stewen Ascari
+## About 
 
-- :computer: Java, Node.js, Javascript, TypeScript, Angular.js ...
+> * 27
+> * Software developer
+> * Graduated in Information Systems, Ufpb
+> * Love cats 🐈 and coffee ☕
 
-:blush: :point_right: :heart: :
-   - Coffee :coffee:
-   - Cats :cat2:
-   - Music :headphones:
-   - Games :video_game:
+## Stack
 
-
-<!--
-**StewenAscari/StewenAscari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-#### I'm :heart::     :computer: :tea: :headphones: :video_game: :pizza: :cat2:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> ![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white)
+> ![Java](https://img.shields.io/badge/Django-19994C?style=for-the-badge&logo=django&logoColor=white)
+> ![python](https://img.shields.io/badge/Python-19994C?style=for-the-badge&logo=python&logoColor=white)
+> ![Spring Boot](https://img.shields.io/badge/Spring-141354C?style=for-the-badge&logo=spring&logoColor=white)
+> ![Angular](https://img.shields.io/badge/Angular-e84545?style=for-the-badge&logo=angular&logoColor=white)
+> ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+> ![MySql](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
+> ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## Stats
-> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stewenascari)](https://github.com/anuraghazra/github-readme-stats)
 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stewenascari&exclude_repo=portfolio-tcb,stewenascari.github.io&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stewenascari&exclude_repo=portfolio-tcb,stewenascari.github.io&show_icons=true&hide=html,teX&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stewenascari&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
