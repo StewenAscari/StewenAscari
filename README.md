@@ -21,6 +21,10 @@
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stewenascari&exclude_repo=portfolio-tcb,stewenascari.github.io&show_icons=true&hide=html,teX&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stewenascari&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+## Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/-StewenAscari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stewen-ascari-73b1b2a6)](https://www.linkedin.com/in/stewen-ascari-73b1b2a6)
+
 
 
 
